@@ -9,8 +9,5 @@ int main()
 
     float calificaciones[n][ASIGNATURAS];
 
-    promedioAsignatura(calificaciones, n);
-    maxMinAsignatura(calificaciones, n);
-
     return 0;
 }
