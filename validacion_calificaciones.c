@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include "calificaciones.h"
 void ingresarCalificaciones(float *cal, int n)
 {
     for (int i = 0; i < n; i++)
