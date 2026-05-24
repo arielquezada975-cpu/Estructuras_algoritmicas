@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "calificaciones.h"
+
 void promedioEstudiante(float *cal, int n)
 {
     printf("\n--- PROMEDIO POR ESTUDIANTE ---\n");

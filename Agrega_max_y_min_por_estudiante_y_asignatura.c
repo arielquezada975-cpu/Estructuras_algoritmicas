@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "calificaciones.h"
+
 void maxMinEstudiante(float *cal, int n)
 {
     printf("\n--- MAX Y MIN POR ESTUDIANTE ---\n");
